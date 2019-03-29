@@ -8,11 +8,11 @@ This my Android practice3 about Android UI Component
 
 
 problem01> 
-Android ListView的用法> 
-利用SimpleAdapter实现如下界面效果> 
-（1）注意列表项的布局> 
-（2）图片使用QQ群附件资源> 
-（3）使用Toast显示选中的列表项信息> 
+Android ListView的用法<br/>
+利用SimpleAdapter实现如下界面效果<br/>
+（1）注意列表项的布局<br/>
+（2）图片使用QQ群附件资源<br/>
+（3）使用Toast显示选中的列表项信息<br/>
 
 实现效果：
 
