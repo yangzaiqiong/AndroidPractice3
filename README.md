@@ -2,6 +2,7 @@
 This my Android practice3 about Android UI Component 
 
 主界面：
+<img src="https://github.com/yangzaiqiong/AndroidPractice3_Android_UI_Component/blob/master/app/src/main/res/drawable-v24/main.png" width="400" alt="主界面"/>
 ![主界面](https://github.com/yangzaiqiong/AndroidPractice3_Android_UI_Component/blob/master/app/src/main/res/drawable-v24/main.png)
 
 
