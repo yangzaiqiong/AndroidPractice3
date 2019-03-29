@@ -2,6 +2,7 @@
 This my Android practice3 about Android UI Component 
 
 主界面：
+
 <img src="https://github.com/yangzaiqiong/AndroidPractice3_Android_UI_Component/blob/master/app/src/main/res/drawable-v24/main.png" width="400" alt="主界面"/>
 ![主界面](https://github.com/yangzaiqiong/AndroidPractice3_Android_UI_Component/blob/master/app/src/main/res/drawable-v24/main.png)
 
@@ -14,6 +15,7 @@ Android ListView的用法
 （3）使用Toast显示选中的列表项信息
 
 实现效果：
+
 ![problem01](https://github.com/yangzaiqiong/AndroidPractice3_Android_UI_Component/blob/master/app/src/main/res/drawable-v24/problem01.png)
 
 
@@ -24,6 +26,7 @@ problem02
    调用 AlertDialog.Builder 对象上的 setView() 将布局添加到AlertDialog。
    
 实现效果：
+
 ![problem0201](https://github.com/yangzaiqiong/AndroidPractice3_Android_UI_Component/blob/master/app/src/main/res/drawable-v24/img_problem0201.png)
 ![problem0202](https://github.com/yangzaiqiong/AndroidPractice3_Android_UI_Component/blob/master/app/src/main/res/drawable-v24/img_problem0202.png)
 
@@ -37,6 +40,7 @@ problem03
     点击之后设置测试文本的字体
    
 实现效果：
+
 ![problem0301](https://github.com/yangzaiqiong/AndroidPractice3_Android_UI_Component/blob/master/app/src/main/res/drawable-v24/problem0301.png)
 ![problem0302](https://github.com/yangzaiqiong/AndroidPractice3_Android_UI_Component/blob/master/app/src/main/res/drawable-v24/problem0302.png)
 ![problem0303](https://github.com/yangzaiqiong/AndroidPractice3_Android_UI_Component/blob/master/app/src/main/res/drawable-v24/problem0303.png)
@@ -51,6 +55,7 @@ problem04
     为List Item创建ActionMode形式的上下文菜单
    
 实现效果：
+
 ![problem0401](https://github.com/yangzaiqiong/AndroidPractice3_Android_UI_Component/blob/master/app/src/main/res/drawable-v24/problem0401.png)
 ![problem0402](https://github.com/yangzaiqiong/AndroidPractice3_Android_UI_Component/blob/master/app/src/main/res/drawable-v24/problem0402.png)
 ![problem0403](https://github.com/yangzaiqiong/AndroidPractice3_Android_UI_Component/blob/master/app/src/main/res/drawable-v24/problem0403.png)
