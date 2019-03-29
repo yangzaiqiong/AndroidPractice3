@@ -86,13 +86,18 @@ public class problem04 extends AppCompatActivity {
                 adapter.notifyDataSetChanged();
                 return false;
             }
-
+            public void refresh(){
+                for(int i = 0; i < 6; i++){
+                    list.get(i).setBo(false);
+                }
+            }
             @Override
             public boolean onActionItemClicked(ActionMode mode, MenuItem item) {
                 switch (item.getItemId()) {
                     //全选
                     case R.id.menu_all:
                         num = 0;
+                        refresh();
                         adapter.notifyDataSetChanged();
                         mode.finish(); // Action picked, so close the CAB
                         return true;
@@ -100,9 +105,11 @@ public class problem04 extends AppCompatActivity {
                     case R.id.menu_delete:
                         adapter.notifyDataSetChanged();
                         num = 0;
+                        refresh();
                         mode.finish();
                         return true;
                     default:
+                        refresh();
                         adapter.notifyDataSetChanged();
                         num = 0;
                         return false;
@@ -112,6 +119,7 @@ public class problem04 extends AppCompatActivity {
 
             @Override
             public void onDestroyActionMode(ActionMode mode) {
+                refresh();
                 adapter.notifyDataSetChanged();
 
             }
