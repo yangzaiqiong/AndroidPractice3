@@ -7,12 +7,12 @@ This my Android practice3 about Android UI Component
 ![主界面](https://github.com/yangzaiqiong/AndroidPractice3_Android_UI_Component/blob/master/app/src/main/res/drawable-v24/main.png)
 
 
-problem01
-Android ListView的用法
-利用SimpleAdapter实现如下界面效果
-（1）注意列表项的布局
-（2）图片使用QQ群附件资源
-（3）使用Toast显示选中的列表项信息
+problem01> 
+Android ListView的用法> 
+利用SimpleAdapter实现如下界面效果> 
+（1）注意列表项的布局> 
+（2）图片使用QQ群附件资源> 
+（3）使用Toast显示选中的列表项信息> 
 
 实现效果：
 
